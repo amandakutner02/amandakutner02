@@ -1,4 +1,5 @@
-### Hi there, my name is Amanda!
+### Hi there
+<h2> My name is Amanda👩🏻‍💻!
 
 
 - I have 17 years 
